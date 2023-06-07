@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWpExN0VwSa+dO8EuDHEGwSdhCwyx2ubF7NjtSgU/vJAFOlLqODsWNO5WnmbhvjMdO0AqA5Rj+KGRscGa5VgJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon Laptop\\week-4-Unekwu001\\Bank_2\\Bank_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
